@@ -1,0 +1,11 @@
+* {
+  background-color: #1c2230 !important;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.nav-link {
+  color: aliceblue !important;
+}
